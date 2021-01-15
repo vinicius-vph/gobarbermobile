@@ -38,7 +38,7 @@ const SignIn: React.FC = () => {
 
                         <Input name="email" icon="mail" placeholder="E-mail"/>
                         <Input name="password" icon="lock" placeholder="Senha"/>
-         
+
                         <Button onPress={() => {}}>Entrar</Button>
                         <ForgotPassword onPress={() => {}}>
                             <ForgotPasswordText>Esqueci minha senha</ForgotPasswordText>
